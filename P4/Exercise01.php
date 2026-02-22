@@ -5,7 +5,7 @@ session_start();
 <html>
 <body>
 <h1>Cambiar valores de un array</h1>
-<form action="Ejercicio1.php" method="post" enctype="multipart/form-data">
+<form action="Exercise01.php" method="post" enctype="multipart/form-data">
     <select name="opciones">
         <option value="">-- Selecciona --</option>
         <option value="1">1</option>
